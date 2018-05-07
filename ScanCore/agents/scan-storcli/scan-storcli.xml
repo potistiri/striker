@@ -5,7 +5,7 @@ main Striker strings file. Do this by prefixing all strings with 'scan_storcli_'
 -->
 <strings>
 	<!-- Canadian English -->
-	<name>scan-apc-ups.xml</name>
+	<name>scan-storcli.xml</name>
 	<version>0.0.001</version>
 	<langs>en_CA</langs>
 	<!-- Canadian English -->
